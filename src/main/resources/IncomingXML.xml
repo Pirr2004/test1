@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <id>2</id>
+    <name>Иванов Иван Иванович</name>
+    <address>
+        <addressLine1>г.Урюпинск</addressLine1>
+        <addressLine2>ул.Мичюрина,12А</addressLine2>
+        <country>Российская Федерация</country>
+        <state>Волгоградская область</state>
+        <zip>5</zip>
+    </address>
+    <assestsAllocated>100000</assestsAllocated>
+</employee>
